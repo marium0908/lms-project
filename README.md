@@ -2,6 +2,8 @@
 
 A full-stack Learning Management System built with the MERN Stack (MongoDB, Express.js, React with TypeScript, Node.js) and Tailwind CSS.
 
+<img width="1920" height="933" alt="screencapture-lms-project-foma-vercel-app-2026-11-14-11_45_27" src="https://github.com/user-attachments/assets/52654c79-c144-4b2a-8a4d-fa282204ce2a" />
+
 ## Features
 
 ### Student Panel
