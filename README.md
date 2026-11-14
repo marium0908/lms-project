@@ -56,7 +56,7 @@ lms-project/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com
+git clone https://github.com/marium0908/lms-project.git
 cd lms-project
 ```
 
