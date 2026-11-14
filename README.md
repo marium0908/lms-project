@@ -6,7 +6,7 @@ A full-stack Learning Management System built with the MERN Stack (MongoDB, Expr
 
 ## Live Demo
 
-- **Frontend Live URL:** https://lms-project-foma.vercel.app/
+- **Frontend Live URL:** https://lms-project-foma.vercel.app
 - **Backend API URL:** https://lms-project-bice-seven.vercel.app
 
 ## Features
